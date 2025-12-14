@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Tiago Azevedo, currently pursuing a Master's degree in Software Engineering at FEUP. <br>Currently working at JuniFEUP as a Software Developer, building web and mobile solutions.
+I am Tiago Azevedo, currently pursuing a Master's degree in Software Engineering at FEUP. <br>Currently working at INESCTEC as a Software Developer.
 
 
 ## 🌐 Socials:
