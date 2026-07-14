@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Tiago Azevedo, currently pursuing a Master's degree in Software Engineering at FEUP. <br>Currently working at INESCTEC as a Software Developer.
+Cloud AI Engineer @ DEUS.AI
 
 
 ## 🌐 Socials:
